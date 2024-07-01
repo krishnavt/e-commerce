@@ -10,7 +10,7 @@ import Cart from './pages/Cart';
 import Checkout from './pages/Checkout';
 import { CartProvider } from './context/CartContext';
 
-const paypalClientId = "YOUR_PAYPAL_CLIENT_ID"; // Replace with your actual PayPal client ID
+const paypalClientId = "AaNJcQRrta72n1mIGVJ1SBj_OLsFx70tuEODzD7Eh8FEHyL81afcl1qNfU7BcCKHBIo"; // Replace with your actual PayPal client ID
 
 const paypalOptions = {
   "client-id": paypalClientId,
