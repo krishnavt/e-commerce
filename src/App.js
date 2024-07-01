@@ -10,7 +10,7 @@ import Cart from './pages/Cart';
 import Checkout from './pages/Checkout';
 import { CartProvider } from './context/CartContext';
 
-const paypalClientId = "AaNJcQRrta72n1mIGVJ1SBj_OLsFx70tuEODzD7Eh8FEHyL81afcl1qNfU7BcCKHBIo-7wtUwxaUOnr1"; // Replace with your actual PayPal client ID
+const paypalClientId = "AaNJcQRrta72n1mIGVJ1SBj_OLsFx70tuEODzD7Eh8FEHyL81afcl1qNfU7BcCKHBIo-7wtUwxaUOnr2"; // Replace with your actual PayPal client ID
 
 const paypalOptions = {
   "client-id": paypalClientId,
